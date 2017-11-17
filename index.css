@@ -1,3 +1,7 @@
 body {
-	text-align: center;
+    text-align: center;
+}
+
+ol {
+    list-style-position: inside;
 }
